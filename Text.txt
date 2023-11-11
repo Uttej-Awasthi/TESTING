@@ -1,2 +1,41 @@
 This is a simple text file. 
 New Line Added.
+git init
+
+git ls -a
+
+git status
+
+git commit -m "xyz"
+
+
+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
+
+
+https://github.com/Uttej-Awasthi/TESTING.git
+
+
+$ git remote add origin https://token@github.com/Uttej-Awasthi/TESTING.git
+
+
+git remote add origin https://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@github.com/Uttej-Awasthi/TESTING.git
+
+
+git remote remove origin
+
+
+git remote show origin
+
+[git branch is like a pointer that holds more than one commit details.]
+
+
+git branch
+
+git branch branchName
+
+
+
+branch switching -   git checkout branchName
+
+create branch and then swwitch to it-  git checkout -b branchName
+
