@@ -1,0 +1,5 @@
+docker pull aslam904/patientsmodule:0.0.1-SNAPSHOT
+docker pull aslam904/invoicesmodule:0.0.1-SNAPSHOT
+docker pull aslam904/doctormodule:0.0.1-SNAPSHOT
+docker pull aslam904/appointmentmodule:0.0.1-SNAPSHOT
+docker pull aslam904/adminmodule:latest

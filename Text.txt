@@ -37,5 +37,10 @@ git branch branchName
 
 branch switching -   git checkout branchName
 
+
+If we are planning to do any task don't do in main or master[default branch]
+
+Just create new branch and do new asks in that branch.
+
 create branch and then swwitch to it-  git checkout -b branchName
 
